@@ -1,0 +1,6 @@
+et-xmlfile==1.0.1
+gspread==0.3.0
+jdcal==1.2
+openpyxl==2.3.3
+requests==2.9.1
+xlwt==1.0.0
